@@ -6,7 +6,7 @@
 
 ## 🌅 上午 | Deep Learning Fundamentals
 
-**课程内容：** 李宏毅深度学习（李牧/李宏毅课程）  
+**课程内容：** 李牧深度学习pytorch  
 **进度：** 自动微分（Auto Differentiation）
 
 
